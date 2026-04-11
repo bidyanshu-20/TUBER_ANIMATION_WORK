@@ -51,7 +51,7 @@ tubes-animation/
 ### 1️⃣ Clone the repository
 
 ```id="clone111"
-git clone https://github.com/your-username/tubes-animation.git
+git clone https://github.com/rohitkumar01603016/Tubes1.git
 cd tubes-animation
 ```
 
