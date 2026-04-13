@@ -51,7 +51,7 @@ tubes-animation/
 ### 1️⃣ Clone the repository
 
 ```id="clone111"
-git clone https://github.com/rohitkumar01603016/Tubes1.git
+git clone https://github.com/bidyanshu-20/TUBER_ANIMATION_WORK.git
 cd tubes-animation
 ```
 
@@ -65,7 +65,7 @@ cd tubes-animation
 
 ## 📸 Screenshot
 
-![Tubes Animation](./assets/look.png)
+![Tubes Animation](./assets/look1.png)
 
 ---
 
@@ -88,7 +88,7 @@ Live Demo: https://your-tubes-project-link
 
 ## 👨‍💻 Author
 
-**Rohit Kumar**
+**Bidyanshu Kumar**
 
 ---
 
