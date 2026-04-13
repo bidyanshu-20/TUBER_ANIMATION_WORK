@@ -14,7 +14,7 @@ import TubesCursor from "https://cdn.jsdelivr.net/npm/threejs-components@0.0.19/
     document.body.addEventListener('click', () => {
       const colors = randomColors(3);
       const lightsColors = randomColors(4);
-      console.log(colors, lightsColors);
+      // console.log(colors, lightsColors);
       app.tubes.setColors(colors);
       app.tubes.setLightsColors(lightsColors);
     });
